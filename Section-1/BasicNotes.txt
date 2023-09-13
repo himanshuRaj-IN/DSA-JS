@@ -1,0 +1,2 @@
+For of iterate of over the value of object 
+and for in iterate over the key of the object
